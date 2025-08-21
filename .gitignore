@@ -1,0 +1,23 @@
+# Pastas
+node_modules/
+downloads/
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Estilos
+*.css
+*.scss
+
+# Arquivos
+*.arquivos_gerados.txt
+
+
+# Arquivos de extensão
+*.js
